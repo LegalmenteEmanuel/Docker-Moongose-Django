@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+*.env
+
+# Env
+env/
+.env
+
+# Docker
+*.log
+*.pid
+*.seed
+*.backup
+*.swp
+*.swo
+docker-compose.override.yml
+docker-data/
+docker-logs/
+node_modules/
+*.sock
+tmp/
+
+# PyCharm
+.idea/
+.vscode/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
